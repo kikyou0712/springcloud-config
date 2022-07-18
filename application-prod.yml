@@ -1,2 +1,6 @@
 server:
   8080
+
+spring:
+  application:
+    name: springconfig
