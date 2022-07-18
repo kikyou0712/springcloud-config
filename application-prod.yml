@@ -1,5 +1,5 @@
 config:
-  info: "version=1.2"
+  info: "version=1.21"
 server:
   8080
 
